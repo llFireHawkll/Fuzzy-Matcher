@@ -5,7 +5,7 @@ File Created: Saturday, 21st November 2020 2:22:53 am
 Author: Sparsh Dutta (sparsh.dtt@gmail.com)
 -----
 Last Modified: Saturday, 21st November 2020 5:56:57 am
-Modified By: Sparsh Dutta (sparsh.dtt@gmail.com>)
+Modified By: Sparsh Dutta (sparsh.dtt@gmail.com)
 -----
 Copyright 2020 Sparsh Dutta
 '''
